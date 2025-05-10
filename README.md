@@ -84,4 +84,4 @@ Este projeto está sob a [Licença MIT](LICENSE).
 ## ✍️ Autor
 
 Desenvolvido por [@CaioMouras](https://github.com/CaioMouras)  
-Entusiasta de desenvolvimento web e fã de mundos imaginários. ⚔️🎲
+Desenvolvedor fullstack e nerd nas horas vagas.
